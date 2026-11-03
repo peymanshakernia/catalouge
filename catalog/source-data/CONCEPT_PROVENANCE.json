@@ -120,6 +120,120 @@
         "Four-language headings are displayed; final technical and component text must be typeset and reviewed",
         "Same page study only; no new catalogue section started"
       ]
+    },
+    {
+      "asset_id": "DESIGN-06",
+      "path": "catalog/pages/concepts/panel-page-01-editorial-v01.png",
+      "generated_on": "2026-11-03",
+      "tool": "image_gen",
+      "purpose": "Panel page option 1: architectural hero and five real-code reference cards",
+      "width_px": 1055,
+      "height_px": 1491,
+      "sha256": "8726cca845336178c89ea81281d701d738ac5be9792f42272a1a24d48087bc58",
+      "status": "layout_reviewed_legacy_codes_geometry_unverified",
+      "references": [
+        {
+          "path": "assets/references/behrouz-catalogue-legacy.pdf",
+          "pdf_page": 73
+        },
+        {
+          "path": "catalog/pages/concepts/catalogue-art-directions-v01.png",
+          "selected_column": "B"
+        }
+      ],
+      "referenced_legacy_codes": [
+        "FTB 027",
+        "FTB 028",
+        "FTB 029",
+        "FTB 030",
+        "FTB 031"
+      ],
+      "constraints": [
+        "Approved B warm architectural/neoclassical direction",
+        "Preserve source codes including leading zeros; codes do not confirm current availability",
+        "Rendered front patterns approximate old reference, not exact verified geometry",
+        "No invented numeric dimensions or units",
+        "No fictitious cross-sections or empty four-language footer table",
+        "No quality certification stamp",
+        "Four-language section heading; short English pattern captions remain to be typeset in all four languages",
+        "Application render is illustrative, not a verified built project"
+      ]
+    },
+    {
+      "asset_id": "DESIGN-07",
+      "path": "catalog/pages/concepts/panel-page-02-selection-v01.png",
+      "generated_on": "2026-11-03",
+      "tool": "image_gen",
+      "purpose": "Panel page option 2: five product cards and one application-image slot",
+      "width_px": 1055,
+      "height_px": 1491,
+      "sha256": "f2f9c5a63e439a575d445c18f8c240fc82090ca7c14c79b6864504f6cc800af3",
+      "status": "layout_reviewed_legacy_codes_geometry_unverified",
+      "references": [
+        {
+          "path": "assets/references/behrouz-catalogue-legacy.pdf",
+          "pdf_page": 73
+        },
+        {
+          "path": "catalog/pages/concepts/catalogue-art-directions-v01.png",
+          "selected_column": "B"
+        }
+      ],
+      "referenced_legacy_codes": [
+        "FTB 027",
+        "FTB 028",
+        "FTB 029",
+        "FTB 030",
+        "FTB 031"
+      ],
+      "constraints": [
+        "Approved B warm architectural/neoclassical direction",
+        "Preserve source codes including leading zeros; codes do not confirm current availability",
+        "Rendered front patterns approximate old reference, not exact verified geometry",
+        "No invented numeric dimensions or units",
+        "No fictitious cross-sections or empty four-language footer table",
+        "No quality certification stamp",
+        "Four-language section heading; short English pattern captions remain to be typeset in all four languages",
+        "Application render is illustrative, not a verified built project"
+      ]
+    },
+    {
+      "asset_id": "DESIGN-08",
+      "path": "catalog/pages/concepts/panel-page-03-application-v01.png",
+      "generated_on": "2026-11-03",
+      "tool": "image_gen",
+      "purpose": "Panel page option 3: facade image and five product bands",
+      "width_px": 1055,
+      "height_px": 1491,
+      "sha256": "f3b68fa12b97a017c436956ac8d74a57db0672e1fbfd29279c55f10fc8cfa652",
+      "status": "layout_reviewed_legacy_codes_geometry_unverified",
+      "references": [
+        {
+          "path": "assets/references/behrouz-catalogue-legacy.pdf",
+          "pdf_page": 73
+        },
+        {
+          "path": "catalog/pages/concepts/catalogue-art-directions-v01.png",
+          "selected_column": "B"
+        }
+      ],
+      "referenced_legacy_codes": [
+        "FTB 027",
+        "FTB 028",
+        "FTB 029",
+        "FTB 030",
+        "FTB 031"
+      ],
+      "constraints": [
+        "Approved B warm architectural/neoclassical direction",
+        "Preserve source codes including leading zeros; codes do not confirm current availability",
+        "Rendered front patterns approximate old reference, not exact verified geometry",
+        "No invented numeric dimensions or units",
+        "No fictitious cross-sections or empty four-language footer table",
+        "No quality certification stamp",
+        "Four-language section heading; short English pattern captions remain to be typeset in all four languages",
+        "Application render is illustrative, not a verified built project"
+      ]
     }
   ]
 }
