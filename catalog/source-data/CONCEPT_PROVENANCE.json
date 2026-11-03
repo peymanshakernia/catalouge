@@ -1,0 +1,38 @@
+{
+  "generated_concepts": [
+    {
+      "asset_id": "DESIGN-01",
+      "path": "assets/references/concepts/facade-window-profile-directions-v01.png",
+      "generated_on": "2026-11-03",
+      "tool": "image_gen",
+      "purpose": "Facade, window-composition and profile-form concepts A/B/C",
+      "width_px": 1536,
+      "height_px": 1024,
+      "sha256": "b2176f34552bae4ef4f5ca2eac19893f5566c1b4a5db4205ad6133ee847a8e42",
+      "status": "concept_not_verified_product",
+      "constraints": [
+        "No real product codes or verified dimensions",
+        "No claim of manufacturing feasibility or completed project",
+        "One combined four-language catalogue",
+        "Product geometry must be developed from actual files"
+      ]
+    },
+    {
+      "asset_id": "DESIGN-02",
+      "path": "catalog/pages/concepts/catalogue-art-directions-v01.png",
+      "generated_on": "2026-11-03",
+      "tool": "image_gen",
+      "purpose": "Catalogue cover and interior art-direction concepts A/B/C",
+      "width_px": 1536,
+      "height_px": 1024,
+      "sha256": "d21638f4fc6342a00852efc06d0dbb82e960cf86dfb282d94bdb461f36e20a37",
+      "status": "concept_not_verified_product",
+      "constraints": [
+        "No real product codes or verified dimensions",
+        "No claim of manufacturing feasibility or completed project",
+        "One combined four-language catalogue",
+        "Product geometry must be developed from actual files"
+      ]
+    }
+  ]
+}
