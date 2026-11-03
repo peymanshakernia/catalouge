@@ -33,6 +33,93 @@
         "One combined four-language catalogue",
         "Product geometry must be developed from actual files"
       ]
+    },
+    {
+      "asset_id": "DESIGN-03",
+      "path": "catalog/pages/concepts/interior-window-surrounds-01-hero-v01.png",
+      "generated_on": "2026-11-03",
+      "tool": "image_gen",
+      "purpose": "Interior page option 1: architectural hero and six sample cards",
+      "width_px": 1055,
+      "height_px": 1491,
+      "sha256": "5cd76dac352c80b24990150644a800fdc92b8c0aba0b6f7f9eaa1b30c4869f0d",
+      "status": "page_layout_prototype_not_verified_product",
+      "references": [
+        {
+          "path": "assets/references/behrouz-catalogue-legacy.pdf",
+          "pdf_page": 17
+        },
+        {
+          "path": "catalog/pages/concepts/catalogue-art-directions-v01.png",
+          "selected_column": "B"
+        }
+      ],
+      "constraints": [
+        "Approved contemporary neoclassical facade and warm architectural graphic direction B",
+        "Sample numerals 01–06 are not real model codes",
+        "No verified technical dimensions or units",
+        "Generated profiles are illustrative, not accurate model reconstructions",
+        "Four-language headings are displayed; final technical and component text must be typeset and reviewed",
+        "Same page study only; no new catalogue section started"
+      ]
+    },
+    {
+      "asset_id": "DESIGN-04",
+      "path": "catalog/pages/concepts/interior-window-surrounds-02-grid-v01.png",
+      "generated_on": "2026-11-03",
+      "tool": "image_gen",
+      "purpose": "Interior page option 2: product-first six-card grid",
+      "width_px": 1055,
+      "height_px": 1491,
+      "sha256": "635f5b4f1fb65a489e6469a9c620fb7f1239d76bfd3d73f7f406d0235ce785f2",
+      "status": "page_layout_prototype_not_verified_product",
+      "references": [
+        {
+          "path": "assets/references/behrouz-catalogue-legacy.pdf",
+          "pdf_page": 17
+        },
+        {
+          "path": "catalog/pages/concepts/catalogue-art-directions-v01.png",
+          "selected_column": "B"
+        }
+      ],
+      "constraints": [
+        "Approved contemporary neoclassical facade and warm architectural graphic direction B",
+        "Sample numerals 01–06 are not real model codes",
+        "No verified technical dimensions or units",
+        "Generated profiles are illustrative, not accurate model reconstructions",
+        "Four-language headings are displayed; final technical and component text must be typeset and reviewed",
+        "Same page study only; no new catalogue section started"
+      ]
+    },
+    {
+      "asset_id": "DESIGN-05",
+      "path": "catalog/pages/concepts/interior-window-surrounds-03-composition-v01.png",
+      "generated_on": "2026-11-03",
+      "tool": "image_gen",
+      "purpose": "Interior page option 3: conceptual window composition and six sample profiles",
+      "width_px": 1055,
+      "height_px": 1491,
+      "sha256": "c2c2c16501aad1fdf86e6e0cd73caa715c08a7aabcfb6b5eda3fc7b7f5435734",
+      "status": "page_layout_prototype_not_verified_product",
+      "references": [
+        {
+          "path": "assets/references/behrouz-catalogue-legacy.pdf",
+          "pdf_page": 17
+        },
+        {
+          "path": "catalog/pages/concepts/catalogue-art-directions-v01.png",
+          "selected_column": "B"
+        }
+      ],
+      "constraints": [
+        "Approved contemporary neoclassical facade and warm architectural graphic direction B",
+        "Sample numerals 01–06 are not real model codes",
+        "No verified technical dimensions or units",
+        "Generated profiles are illustrative, not accurate model reconstructions",
+        "Four-language headings are displayed; final technical and component text must be typeset and reviewed",
+        "Same page study only; no new catalogue section started"
+      ]
     }
   ]
 }
