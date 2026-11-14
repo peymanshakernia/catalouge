@@ -8,4 +8,6 @@ This is a review draft. The previously reported v2 working files were not presen
 
 File: TBFOAM-2027-Catalogue-93-pages-review.pdf
 Pages: 93
-SHA-256: adc2df633dfe1edd107f64fce809563863da656b211e8b7ea59b8dc01e065fa9
+SHA-256: fd65a7e161236b8316fbc848222ff6719eeae048a65e6fd3abf1014dcfcf064d
+
+Latest user correction: factory address is Shiraz, Velayat Blvd., Amanat Street, T.B.FOAM factory; factory mobile is +98 917 117 3862. Both factory and primary WhatsApp mobiles are bold.
